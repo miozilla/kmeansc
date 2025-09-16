@@ -1,5 +1,5 @@
 # kmeansc 🌼🌷🌻
-kmeansc :  # K-Means Clustering # scikit-learn framework # clustering model
+kmeansc : K-Means Clustering # scikit-learn framework # clustering model
 
 
 ## Objective
